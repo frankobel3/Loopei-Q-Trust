@@ -1,0 +1,80 @@
+LoopEi Dual License Agreement
+Copyright © 2025 LoopEi LLC. All rights reserved.
+
+Patent Pending: USPTO Application No. 19/303,438
+Owner: LoopEi LLC
+Inventor: Franklyn Ernesto Beltré
+
+========================================================
+PART 1 — ACADEMIC & NON-COMMERCIAL RESEARCH LICENSE
+========================================================
+
+Permission is granted, free of charge, to use this software
+(qtrust and associated LoopEi Suite components) for academic
+research and non-commercial purposes only, subject to:
+
+1. ATTRIBUTION REQUIRED
+   All use must include the following attribution:
+
+   "This work uses qtrust, a component of the LoopEi Suite.
+    Copyright © 2025 LoopEi LLC. USPTO App. No. 19/303,438.
+    Inventor: Franklyn Ernesto Beltré."
+
+2. PUBLICATION CITATION
+   Any publication resulting from use of this software must cite:
+
+   Beltré, F.E. (2025). qtrust: Quantum Trust Framework.
+   LoopEi LLC. USPTO Application No. 19/303,438.
+
+3. NO COMMERCIAL USE
+   Commercial use without a written commercial license is
+   strictly prohibited and constitutes patent infringement.
+
+4. NO AI/ML TRAINING USE
+   Use of this software, its outputs, or its formal
+   specifications for training AI or ML models is
+   explicitly prohibited.
+
+5. DERIVATIVE WORKS
+   Derivative works for non-commercial purposes must carry
+   this same license and attribution.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF
+   ANY KIND. IN NO EVENT SHALL LOOPEI LLC OR FRANKLYN
+   ERNESTO BELTRÉ BE LIABLE FOR ANY CLAIM OR DAMAGES
+   ARISING FROM USE OF THIS SOFTWARE.
+
+========================================================
+PART 2 — COMMERCIAL LICENSE
+========================================================
+
+Commercial use, production deployment, SaaS integration,
+government contracting, or proprietary applications require
+a separate written commercial license from LoopEi LLC.
+
+Commercial use includes but is not limited to:
+  - Use in for-profit products or services
+  - Integration into proprietary software
+  - Production deployment serving external users
+  - Government and defense contractor applications
+  - Financial or trading system integration
+
+TO OBTAIN A COMMERCIAL LICENSE:
+
+  LoopEi LLC
+  Franklyn Ernesto Beltré, Founder & CEO
+  Email : frank@loopei.com
+  Web   : www.loopei.com
+  CAGE  : 16GM4 (SDVOSB)
+
+========================================================
+GOVERNING LAW
+========================================================
+
+This License is governed by the laws of the State of
+Colorado, United States of America.
+
+Unauthorized commercial use constitutes patent infringement
+under USPTO Application No. 19/303,438 and will be
+pursued to the full extent of the law.

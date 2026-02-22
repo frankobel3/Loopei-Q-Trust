@@ -1,0 +1,34 @@
+# NOTICE — Intellectual Property
+
+**qtrust** is a component of the LoopEi Suite, a paraconsistent quantum trust and
+circuit validation framework.
+
+Copyright © 2025 LoopEi LLC. All rights reserved.
+
+**Patent:** USPTO Application No. 19/303,438 — Patent Pending  
+**Owner:** LoopEi LLC  
+**Inventor:** Franklyn Ernesto Beltré  
+
+This software, including its algorithms, formal verification methods, triadic logic
+constructs, quantum fidelity metrics, and Lean 4 theorem mappings, constitutes
+protected intellectual property under U.S. patent law and copyright law.
+
+## Restrictions
+
+- Commercial use requires a written license from LoopEi LLC
+- Derivative works are prohibited without express written consent
+- Use of this material for AI/ML model training is explicitly prohibited
+- Redistribution in any form requires attribution and prior written approval
+
+## Academic / Research Use
+
+Non-commercial research and academic use is permitted with proper attribution:
+
+> Beltré, F.E. (2025). qtrust: Quantum Trust Framework. LoopEi LLC.
+> USPTO Application No. 19/303,438.
+
+## Contact
+
+**Email:** frank@loopei.com  
+**Web:** www.loopei.com  
+**CAGE Code:** 16GM4 (Service-Disabled Veteran-Owned Small Business)
